@@ -1,0 +1,7 @@
+target/
+*.class
+.idea/
+node_modules/
+**/node_modules/
+**/dist/
+*.log
